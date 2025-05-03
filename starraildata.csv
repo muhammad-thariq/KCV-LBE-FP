@@ -1,0 +1,61 @@
+character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,base_SPD,max_Energy
+1001,March 7th,4,W0,Ice,The Preservation,1058,512,573,101,120
+1002,Dan Heng,4,W0,Wind,The Hunt,882,547,397,110,100
+1003,Himeko,5,W0,Fire,The Erudition,1048,757,437,96,120
+1004,Welt,5,W0,Imaginary,The Nihility,1125,621,509,102,120
+1005,Kafka,5,W0,Lightning,The Nihility,1087,679,485,100,120
+1006,Silver Wolf,5,W0,Quantum,The Nihility,1048,640,461,107,110
+1008,Arlan,4,W0,Lightning,The Destruction,1200,600,331,102,110
+1009,Asta,4,W0,Fire,The Harmony,1023,512,463,106,120
+1013,Herta,4,W0,Ice,The Erudition,953,582,397,100,110
+1101,Bronya,5,W1,Wind,The Harmony,1242,582,534,99,120
+1102,Seele,5,W1,Quantum,The Hunt,931,640,364,115,120
+1103,Serval,4,W1,Lightning,The Erudition,917,653,375,104,100
+1104,Gepard,5,W1,Ice,The Preservation,1397,543,655,92,100
+1105,Natasha,4,W1,Physical,The Abundance,1164,476,507,98,90
+1106,Pela,4,W1,Ice,The Nihility,988,547,463,105,110
+1107,Clara,5,W1,Physical,The Destruction,1242,737,485,90,110
+1108,Sampo,4,W1,Wind,The Nihility,1023,617,397,102,120
+1109,Hook,4,W1,Fire,The Destruction,1341,617,353,94,120
+1110,Lynx,4,W1,Quantum,The Abundance,1058,494,551,100,100
+1111,Luka,4,W1,Physical,The Nihility,917,582,485,103,130
+1112,Topaz & Numby,5,W1,Fire,The Hunt,931,621,412,110,130
+1201,Qingque,4,W2,Quantum,The Erudition,1023,653,441,98,140
+1202,Tingyun,4,W2,Lightning,The Harmony,847,529,397,112,130
+1203,Luocha,5,W2,Imaginary,The Abundance,1281,757,364,101,100
+1204,Jing Yuan,5,W2,Lightning,The Erudition,1164,699,485,99,130
+1205,Blade,5,W2,Wind,The Destruction,1358,543,485,97,130
+1206,Sushang,4,W2,Physical,The Hunt,917,564,419,107,120
+1207,Yukong,4,W2,Imaginary,The Harmony,917,600,375,107,130
+1208,Fu Xuan,5,W2,Quantum,The Preservation,1475,466,606,100,135
+1209,Yanqing,5,W2,Ice,The Hunt,893,679,412,109,140
+1210,Guinaifen,4,W2,Fire,The Nihility,882,582,441,106,120
+1211,Bailu,5,W2,Lightning,The Abundance,1319,563,485,98,100
+1212,Jingliu,5,W2,Ice,The Destruction,1463,679,485,96,140
+1213,Dan Heng Imbibitor Lunae,5,W2,Imaginary,The Destruction,1242,699,364,102,140
+1214,Xueyi,4,W2,Quantum,The Destruction,1058,600,397,103,120
+1215,Hanya,4,W2,Physical,The Harmony,917,564,353,110,140
+1217,Huohuo,5,W2,Wind,The Abundance,1358,602,509,98,140
+1218,Jiaoqiu,5,W2,Fire,The Nihility,1358,602,509,98,100
+1220,Feixiao,5,W2,Wind,The Hunt,1048,602,388,112,12
+1221,Yunli,5,W2,Physical,The Destruction,1358,679,461,94,240
+1222,Lingsha,5,W2,Fire,The Abundance,1358,679,437,98,110
+1223,Moze,4,W2,Lightning,The Hunt,811,600,353,111,120
+1224,March 7th,4,W2,Imaginary,The Hunt,1058,564,441,102,110
+1301,Gallagher,4,W3,Fire,The Abundance,1305,529,441,98,110
+1302,Argenti,5,W3,Physical,The Erudition,1048,737,364,103,180
+1303,Ruan Mei,5,W3,Ice,The Harmony,1087,660,485,104,130
+1304,Aventurine,5,W3,Imaginary,The Preservation,1203,446,655,106,110
+1305,Dr. Ratio,5,W3,Imaginary,The Hunt,1048,776,461,103,140
+1306,Sparkle,5,W3,Quantum,The Harmony,1397,524,485,101,110
+1307,Black Swan,5,W3,Wind,The Nihility,1087,660,485,102,120
+1308,Acheron,5,W3,Lightning,The Nihility,1125,699,437,101,9
+1309,Robin,5,W3,Physical,The Harmony,1281,640,485,102,160
+1310,Firefly,5,W3,Fire,The Destruction,815,524,776,104,240
+1312,Misha,4,W3,Ice,The Destruction,1270,600,397,96,100
+1314,Jade,5,W3,Quantum,The Erudition,1087,660,509,103,140
+1315,Boothill,5,W3,Physical,The Hunt,1203,621,437,107,115
+1317,Rappa,5,W3,Imaginary,The Erudition,1087,640,461,102,160
+8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
+8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
+8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
